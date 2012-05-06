@@ -9,5 +9,7 @@ package javaapp;
  * @author Jacek
  */
 public class Okno1 {
-    
+     public void metoda() {
+    System.out.println("test aplikacji");
+     }
 }
